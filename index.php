@@ -8,7 +8,8 @@ $tasks = [
   "exercise6.php" => "Task 6: Row and column totals",
   "exercise7.php" => "Task 7: FILO",
   "exercise8.php" => "Task 8: FIFO",
-  "exercise9.php" => "Task 8: POST method",
+  "exercise9.php" => "Task 9: POST method",
+  "exercise10.php" => "Task 10: Code explanation",
 ];
 ?>
 <!DOCTYPE html>
