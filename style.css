@@ -1,34 +1,7 @@
 /* style.css */
 body {
-    font-family: sans-serif;
-    background: #fefefe;
-    color: #333;
-    margin: 2rem;
-}
-
-.container {
-    max-width: 800px;
-    margin: auto;
-    background: #f4f4f4;
-    padding: 2rem;
-    border-radius: 8px;
-}
-
-h1,
-h2 {
-    color: #2c3e50;
-}
-
-ul {
-    list-style: square;
-    padding-left: 20px;
-}
-
-a {
-    color: #3490dc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+  font-family: sans-serif;
+  background: #ffffff;
+  color: #090c10;
+  margin: 2rem;
 }
