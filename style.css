@@ -1,7 +1,35 @@
-/* style.css */
 body {
   font-family: sans-serif;
-  background: #ffffff;
-  color: #090c10;
-  margin: 2rem;
+  background: #090C10;
+  color: #ffffff;
+  margin: 0;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.glow-yellow {
+  box-shadow: 0 0 8px #E7C73B;
+}
+
+.glow-pink {
+  box-shadow: 0 0 8px #FA3ABF;
+}
+
+.glow-green {
+  box-shadow: 0 0 8px #AEFA62;
+}
+
+.glow-blue {
+  box-shadow: 0 0 8px #4993E2;
+}
+
+.glow-red {
+  box-shadow: 0 0 8px #E44756;
+}
+
+.glow-purple {
+  box-shadow: 0 0 8px #7069F6;
 }
